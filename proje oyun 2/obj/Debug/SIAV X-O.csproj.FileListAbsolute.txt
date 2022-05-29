@@ -1,0 +1,11 @@
+D:\programs\proje oyun 2\proje oyun 2\obj\Debug\SIAV X-O.csproj.SuggestedBindingRedirects.cache
+D:\programs\proje oyun 2\proje oyun 2\obj\Debug\proje_oyun_2.SIAV.resources
+D:\programs\proje oyun 2\proje oyun 2\obj\Debug\SIAV X-O.csproj.GenerateResource.cache
+D:\programs\proje oyun 2\proje oyun 2\obj\Debug\SIAV X-O.csproj.CoreCompileInputs.cache
+D:\programs\proje oyun 2\proje oyun 2\obj\Debug\SiaV.Properties.Resources.resources
+D:\programs\proje oyun 2\proje oyun 2\bin\Debug\SIAV_X_O.exe.config
+D:\programs\proje oyun 2\proje oyun 2\bin\Debug\SIAV_X_O.exe
+D:\programs\proje oyun 2\proje oyun 2\bin\Debug\SIAV_X_O.pdb
+D:\programs\proje oyun 2\proje oyun 2\obj\Debug\SIAV X-O.csproj.AssemblyReference.cache
+D:\programs\proje oyun 2\proje oyun 2\obj\Debug\SIAV_X_O.exe
+D:\programs\proje oyun 2\proje oyun 2\obj\Debug\SIAV_X_O.pdb

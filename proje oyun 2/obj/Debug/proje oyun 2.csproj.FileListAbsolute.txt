@@ -1,0 +1,11 @@
+D:\programs\proje oyun 2\proje oyun 2\bin\Debug\proje oyun 2.exe.config
+D:\programs\proje oyun 2\proje oyun 2\bin\Debug\proje oyun 2.exe
+D:\programs\proje oyun 2\proje oyun 2\bin\Debug\proje oyun 2.pdb
+D:\programs\proje oyun 2\proje oyun 2\obj\Debug\proje oyun 2.csproj.AssemblyReference.cache
+D:\programs\proje oyun 2\proje oyun 2\obj\Debug\proje oyun 2.csproj.SuggestedBindingRedirects.cache
+D:\programs\proje oyun 2\proje oyun 2\obj\Debug\proje_oyun_2.Form1.resources
+D:\programs\proje oyun 2\proje oyun 2\obj\Debug\proje_oyun_2.Properties.Resources.resources
+D:\programs\proje oyun 2\proje oyun 2\obj\Debug\proje oyun 2.csproj.GenerateResource.cache
+D:\programs\proje oyun 2\proje oyun 2\obj\Debug\proje oyun 2.csproj.CoreCompileInputs.cache
+D:\programs\proje oyun 2\proje oyun 2\obj\Debug\proje oyun 2.exe
+D:\programs\proje oyun 2\proje oyun 2\obj\Debug\proje oyun 2.pdb
